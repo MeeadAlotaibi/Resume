@@ -1,0 +1,8 @@
+body {
+  background-color: rgb(238, 232, 225);
+}
+.divGrid {
+  display: flex;
+  justify-content: space-evenly;
+  /* padding: 50px; */
+}

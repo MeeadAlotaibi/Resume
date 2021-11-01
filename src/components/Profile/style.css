@@ -1,0 +1,30 @@
+.imageProfile {
+  border: 5px solid white;
+  height: 10%;
+  justify-content: center;
+  align-items: center;
+  margin: 50px;
+  padding: 30px;
+}
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  justify-content: center;
+}
+.contactInfo {
+  list-style: none;
+}
+.sosialMedia {
+  display: flex;
+  list-style: none;
+}
+
+#twitterIcon {
+  color: black;
+  font-size: 40px;
+}
+#githubIcon {
+  color: black;
+  font-size: 40px;
+}
